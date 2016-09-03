@@ -1,5 +1,11 @@
+Minombre es victor
+
 #include <iostream>
  using namespace std;
  void main()
  {
    cout << "Hello World!" << endl;   cout << "Welcome to C++ Programming" << endl; }
+
+todo esta bajo control
+
+creo que ya le voy entendiedo a esto jejeje
